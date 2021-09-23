@@ -1,0 +1,14 @@
+.python-version
+*.pyc
+*.pyo
+*.sqlite3
+.coverage
+tags
+.vscode
+/media/
+/src/
+.idea/
+*.spec
+*.egg-info/
+build/
+dist/
